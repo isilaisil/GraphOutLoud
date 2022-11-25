@@ -1,0 +1,1573 @@
+@prefix countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix yt: <Youtube#> .
+
+yt:ID1007 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Carry Minati"^^xsd:string ;
+    yt:commentsavg "199523.4677"^^xsd:float ;
+    yt:followers 36000000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "649801095.4"^^xsd:float ;
+    yt:username "CarryMinati"^^xsd:string ;
+    yt:views "2925375307.0"^^xsd:float ;
+    yt:viewsavg "45650538.0"^^xsd:float .
+
+yt:ID1017 a yt:YouTube ;
+    yt:category "Role-playing video game"^^xsd:string ;
+    yt:channelname "DanTDM"^^xsd:string ;
+    yt:commentsavg "13967.4374"^^xsd:float ;
+    yt:followers 26100000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "327301869.2"^^xsd:float ;
+    yt:username "DanTDM"^^xsd:string ;
+    yt:views "18742286029.0"^^xsd:float ;
+    yt:viewsavg "3750864.875"^^xsd:float .
+
+yt:ID1019 a yt:YouTube ;
+    yt:category "Electronic music"^^xsd:string ;
+    yt:channelname "David Guetta"^^xsd:string ;
+    yt:commentsavg "1386.875"^^xsd:float ;
+    yt:followers 24200000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "27690147.76"^^xsd:float ;
+    yt:username "David Guetta"^^xsd:string ;
+    yt:views "15826729467.0"^^xsd:float ;
+    yt:viewsavg "2730757.0"^^xsd:float .
+
+yt:ID1021 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "Diana and Roma ESP"^^xsd:string ;
+    yt:commentsavg "0.0"^^xsd:float ;
+    yt:followers 25600000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "18259274.4"^^xsd:float ;
+    yt:username "Diana and Roma ESP"^^xsd:string ;
+    yt:views "9951799519.0"^^xsd:float ;
+    yt:viewsavg "7731874.0"^^xsd:float .
+
+yt:ID1023 a yt:YouTube ;
+    yt:category "Movies"^^xsd:string ;
+    yt:channelname "DisneyMusicVEVO"^^xsd:string ;
+    yt:commentsavg "2119.233936"^^xsd:float ;
+    yt:followers 29700000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "90824434.52"^^xsd:float ;
+    yt:username "DisneyMusicVEVO"^^xsd:string ;
+    yt:views "24190969252.0"^^xsd:float ;
+    yt:viewsavg "1395586.867"^^xsd:float .
+
+yt:ID1027 a yt:YouTube ;
+    yt:category "Action-adventure game"^^xsd:string ;
+    yt:channelname "Dream"^^xsd:string ;
+    yt:commentsavg "54184.72254"^^xsd:float ;
+    yt:followers 29500000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "108019743.5"^^xsd:float ;
+    yt:username "Dream"^^xsd:string ;
+    yt:views "2617970693.0"^^xsd:float ;
+    yt:viewsavg "34656080.75"^^xsd:float .
+
+yt:ID1029 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "Dude Perfect"^^xsd:string ;
+    yt:commentsavg "36144.07884"^^xsd:float ;
+    yt:followers 57800000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "244293352.9"^^xsd:float ;
+    yt:username "Dude Perfect"^^xsd:string ;
+    yt:views "14560770809.0"^^xsd:float ;
+    yt:viewsavg "62768767.25"^^xsd:float .
+
+yt:ID1045 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "El Reino Infantil"^^xsd:string ;
+    yt:commentsavg "8.461165049"^^xsd:float ;
+    yt:followers 50900000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "11453139.1"^^xsd:float ;
+    yt:username "El Reino Infantil"^^xsd:string ;
+    yt:views "49013318189.0"^^xsd:float ;
+    yt:viewsavg "2628394.493"^^xsd:float .
+
+yt:ID1053 a yt:YouTube ;
+    yt:category "Action game"^^xsd:string ;
+    yt:channelname "elrubiusOMG"^^xsd:string ;
+    yt:commentsavg "51426.46341"^^xsd:float ;
+    yt:followers 40400000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "814895443.0"^^xsd:float ;
+    yt:username "elrubiusOMG"^^xsd:string ;
+    yt:views "7469679920.0"^^xsd:float ;
+    yt:viewsavg "16593905.0"^^xsd:float .
+
+yt:ID106 a yt:YouTube ;
+    yt:category "Rhythm and blues"^^xsd:string ;
+    yt:channelname "Bruno Mars"^^xsd:string ;
+    yt:commentsavg "27503.7"^^xsd:float ;
+    yt:followers 35100000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "82066537.66"^^xsd:float ;
+    yt:username "Bruno Mars"^^xsd:string ;
+    yt:views "17193624383.0"^^xsd:float ;
+    yt:viewsavg "42594367.0"^^xsd:float .
+
+yt:ID1061 a yt:YouTube ;
+    yt:category "Hip hop music"^^xsd:string ;
+    yt:channelname "EminemMusic"^^xsd:string ;
+    yt:commentsavg "16781.02941"^^xsd:float ;
+    yt:followers 52600000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "45500762.85"^^xsd:float ;
+    yt:username "EminemMusic"^^xsd:string ;
+    yt:views "23404734521.0"^^xsd:float ;
+    yt:viewsavg "15251728.5"^^xsd:float .
+
+yt:ID1069 a yt:YouTube ;
+    yt:category "Rock music"^^xsd:string ;
+    yt:channelname "EminemVEVO"^^xsd:string ;
+    yt:commentsavg "41712.08"^^xsd:float ;
+    yt:followers 25000000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "80282189.68"^^xsd:float ;
+    yt:username "EminemVEVO"^^xsd:string ;
+    yt:views "18613137086.0"^^xsd:float ;
+    yt:viewsavg "52594474.0"^^xsd:float .
+
+yt:ID1071 a yt:YouTube ;
+    yt:category "Movies"^^xsd:string ;
+    yt:channelname "enchufetv"^^xsd:string ;
+    yt:commentsavg "1965.66208"^^xsd:float ;
+    yt:followers 26100000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "71000735.22"^^xsd:float ;
+    yt:username "enchufetv"^^xsd:string ;
+    yt:views "9948293859.0"^^xsd:float ;
+    yt:viewsavg "2002338.0"^^xsd:float .
+
+yt:ID1073 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "Eros Now"^^xsd:string ;
+    yt:commentsavg "95.59818731"^^xsd:float ;
+    yt:followers 30700000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "24201444.69"^^xsd:float ;
+    yt:username "Eros Now"^^xsd:string ;
+    yt:views "16411208086.0"^^xsd:float ;
+    yt:viewsavg "46730.0"^^xsd:float .
+
+yt:ID1083 a yt:YouTube ;
+    yt:category "Action game"^^xsd:string ;
+    yt:channelname "Fernanfloo"^^xsd:string ;
+    yt:commentsavg "148091.5714"^^xsd:float ;
+    yt:followers 45100000 ;
+    yt:hasCountry countries:sv ;
+    yt:likes "937427149.9"^^xsd:float ;
+    yt:username "Fernanfloo"^^xsd:string ;
+    yt:views "9934602477.0"^^xsd:float ;
+    yt:viewsavg "30384570.0"^^xsd:float .
+
+yt:ID1091 a yt:YouTube ;
+    yt:category "Movies"^^xsd:string ;
+    yt:channelname "Galinha Pintadinha"^^xsd:string ;
+    yt:commentsavg "0.0"^^xsd:float ;
+    yt:followers 30500000 ;
+    yt:hasCountry countries:br ;
+    yt:likes "53343498.0"^^xsd:float ;
+    yt:username "Galinha Pintadinha"^^xsd:string ;
+    yt:views "22540668765.0"^^xsd:float ;
+    yt:viewsavg "423923499.0"^^xsd:float .
+
+yt:ID1093 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "GENIAL"^^xsd:string ;
+    yt:commentsavg "481.5174495"^^xsd:float ;
+    yt:followers 31300000 ;
+    yt:hasCountry countries:mx ;
+    yt:likes "43213041.98"^^xsd:float ;
+    yt:username "GENIAL"^^xsd:string ;
+    yt:views "6299463830.0"^^xsd:float ;
+    yt:viewsavg "247359.2944"^^xsd:float .
+
+yt:ID1095 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "Get Movies"^^xsd:string ;
+    yt:commentsavg "6.457063712"^^xsd:float ;
+    yt:followers 40500000 ;
+    yt:hasCountry countries:ru ;
+    yt:likes "16319224.4"^^xsd:float ;
+    yt:username "Get Movies"^^xsd:string ;
+    yt:views "28323109702.0"^^xsd:float ;
+    yt:viewsavg "970253.4333"^^xsd:float .
+
+yt:ID1103 a yt:YouTube ;
+    yt:category "TV shows"^^xsd:string ;
+    yt:channelname "GMANetwork"^^xsd:string ;
+    yt:commentsavg "35.87454765"^^xsd:float ;
+    yt:followers 26900000 ;
+    yt:hasCountry countries:ph ;
+    yt:likes "95213545.19"^^xsd:float ;
+    yt:username "GMANetwork"^^xsd:string ;
+    yt:views "25604805615.0"^^xsd:float ;
+    yt:viewsavg "92213.3"^^xsd:float .
+
+yt:ID1105 a yt:YouTube ;
+    yt:category "Music of Asia"^^xsd:string ;
+    yt:channelname "Goldmines Gaane Sune Ansune"^^xsd:string ;
+    yt:commentsavg "38.6070862"^^xsd:float ;
+    yt:followers 33800000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "3356772.558"^^xsd:float ;
+    yt:username "Goldmines Gaane Sune Ansune"^^xsd:string ;
+    yt:views "13932481911.0"^^xsd:float ;
+    yt:viewsavg "143054.4143"^^xsd:float .
+
+yt:ID1107 a yt:YouTube ;
+    yt:category "Movies"^^xsd:string ;
+    yt:channelname "Goldmines Telefilms"^^xsd:string ;
+    yt:commentsavg "495.4768701"^^xsd:float ;
+    yt:followers 72000000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "63642295.56"^^xsd:float ;
+    yt:username "Goldmines Telefilms"^^xsd:string ;
+    yt:views "17652030516.0"^^xsd:float ;
+    yt:viewsavg "850610.1662"^^xsd:float .
+
+yt:ID1115 a yt:YouTube ;
+    yt:category "Music of Latin America"^^xsd:string ;
+    yt:channelname "GR6 EXPLODE"^^xsd:string ;
+    yt:commentsavg "1047.185363"^^xsd:float ;
+    yt:followers 37500000 ;
+    yt:hasCountry countries:br ;
+    yt:likes "245579644.7"^^xsd:float ;
+    yt:username "GR6 EXPLODE"^^xsd:string ;
+    yt:views "23660684066.0"^^xsd:float ;
+    yt:viewsavg "1665857.182"^^xsd:float .
+
+yt:ID1123 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "HolaSoyGerman."^^xsd:string ;
+    yt:commentsavg "133934.96"^^xsd:float ;
+    yt:followers 43300000 ;
+    yt:hasCountry countries:cl ;
+    yt:likes "222616795.2"^^xsd:float ;
+    yt:username "HolaSoyGerman."^^xsd:string ;
+    yt:views "4725838896.0"^^xsd:float ;
+    yt:viewsavg "56337958.0"^^xsd:float .
+
+yt:ID1131 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "ibighit"^^xsd:string ;
+    yt:commentsavg "98952.06735"^^xsd:float ;
+    yt:followers 67300000 ;
+    yt:hasCountry countries:kr ;
+    yt:likes "636497162.1"^^xsd:float ;
+    yt:username "ibighit"^^xsd:string ;
+    yt:views "23493409219.0"^^xsd:float ;
+    yt:viewsavg "2975123.594"^^xsd:float .
+
+yt:ID1141 a yt:YouTube ;
+    yt:category "Music of Asia"^^xsd:string ;
+    yt:channelname "Ishtar Music"^^xsd:string ;
+    yt:commentsavg "235.4616205"^^xsd:float ;
+    yt:followers 37400000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "18094604.0"^^xsd:float ;
+    yt:username "Ishtar Music"^^xsd:string ;
+    yt:views "14749662467.0"^^xsd:float ;
+    yt:viewsavg "126009.3542"^^xsd:float .
+
+yt:ID1151 a yt:YouTube ;
+    yt:category "Gaming"^^xsd:string ;
+    yt:channelname "jacksepticeye"^^xsd:string ;
+    yt:commentsavg "11206.26311"^^xsd:float ;
+    yt:followers 28500000 ;
+    yt:hasCountry countries:ie ;
+    yt:likes "641050483.4"^^xsd:float ;
+    yt:username "jacksepticeye"^^xsd:string ;
+    yt:views "15393434205.0"^^xsd:float ;
+    yt:viewsavg "2911652.646"^^xsd:float .
+
+yt:ID1153 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "James Charles"^^xsd:string ;
+    yt:commentsavg "38414.74517"^^xsd:float ;
+    yt:followers 24000000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "182740860.0"^^xsd:float ;
+    yt:username "James Charles"^^xsd:string ;
+    yt:views "3664440993.0"^^xsd:float ;
+    yt:viewsavg "12810318.5"^^xsd:float .
+
+yt:ID1155 a yt:YouTube ;
+    yt:category "Role-playing video game"^^xsd:string ;
+    yt:channelname "Jess No Limit"^^xsd:string ;
+    yt:commentsavg "17449.32578"^^xsd:float ;
+    yt:followers 24700000 ;
+    yt:hasCountry countries:id ;
+    yt:likes "118370103.3"^^xsd:float ;
+    yt:username "Jess No Limit"^^xsd:string ;
+    yt:views "3046560972.0"^^xsd:float ;
+    yt:viewsavg "1522567.445"^^xsd:float .
+
+yt:ID1157 a yt:YouTube ;
+    yt:category "Movies"^^xsd:string ;
+    yt:channelname "Jkk Entertainment"^^xsd:string ;
+    yt:commentsavg "3806.336066"^^xsd:float ;
+    yt:followers 35300000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "57770963.73"^^xsd:float ;
+    yt:username "Jkk Entertainment"^^xsd:string ;
+    yt:views "14926283850.0"^^xsd:float ;
+    yt:viewsavg "95969313.0"^^xsd:float .
+
+yt:ID1159 a yt:YouTube ;
+    yt:category "Gaming"^^xsd:string ;
+    yt:channelname "JuegaGerman"^^xsd:string ;
+    yt:commentsavg "25812.18868"^^xsd:float ;
+    yt:followers 45900000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "641782272.8"^^xsd:float ;
+    yt:username "JuegaGerman"^^xsd:string ;
+    yt:views "13594315965.0"^^xsd:float ;
+    yt:viewsavg "5479511.75"^^xsd:float .
+
+yt:ID1175 a yt:YouTube ;
+    yt:category "Pop music"^^xsd:string ;
+    yt:channelname "JustinBieberVEVO"^^xsd:string ;
+    yt:commentsavg "26867.32941"^^xsd:float ;
+    yt:followers 31800000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "127777643.2"^^xsd:float ;
+    yt:username "JustinBieberVEVO"^^xsd:string ;
+    yt:views "25156934979.0"^^xsd:float ;
+    yt:viewsavg "14094849.25"^^xsd:float .
+
+yt:ID1177 a yt:YouTube ;
+    yt:category "Pop music"^^xsd:string ;
+    yt:channelname "jypentertainment"^^xsd:string ;
+    yt:commentsavg "38524.47766"^^xsd:float ;
+    yt:followers 24800000 ;
+    yt:hasCountry countries:mx ;
+    yt:likes "397504868.1"^^xsd:float ;
+    yt:username "jypentertainment"^^xsd:string ;
+    yt:views "16778291814.0"^^xsd:float ;
+    yt:viewsavg "2353376.167"^^xsd:float .
+
+yt:ID1179 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Karolgmusic"^^xsd:string ;
+    yt:commentsavg "3576.064103"^^xsd:float ;
+    yt:followers 27100000 ;
+    yt:hasCountry countries:co ;
+    yt:likes "14238429.23"^^xsd:float ;
+    yt:username "Karolgmusic"^^xsd:string ;
+    yt:views "13680917903.0"^^xsd:float ;
+    yt:viewsavg "7236112.0"^^xsd:float .
+
+yt:ID1189 a yt:YouTube ;
+    yt:category "Pop music"^^xsd:string ;
+    yt:channelname "KatyPerryVEVO"^^xsd:string ;
+    yt:commentsavg "22821.85227"^^xsd:float ;
+    yt:followers 24800000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "69822504.31"^^xsd:float ;
+    yt:username "KatyPerryVEVO"^^xsd:string ;
+    yt:views "22561778561.0"^^xsd:float ;
+    yt:viewsavg "28462813.0"^^xsd:float .
+
+yt:ID1191 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "KHANDESHI MOVIES"^^xsd:string ;
+    yt:commentsavg "3274.081871"^^xsd:float ;
+    yt:followers 31800000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "34001587.65"^^xsd:float ;
+    yt:username "KHANDESHI MOVIES"^^xsd:string ;
+    yt:views "10567312169.0"^^xsd:float ;
+    yt:viewsavg "43266439.5"^^xsd:float .
+
+yt:ID1193 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "Kimberly Loaiza"^^xsd:string ;
+    yt:commentsavg "96580.60465"^^xsd:float ;
+    yt:followers 36900000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "240742149.4"^^xsd:float ;
+    yt:username "Kimberly Loaiza"^^xsd:string ;
+    yt:views "4188413314.0"^^xsd:float ;
+    yt:viewsavg "25171683.25"^^xsd:float .
+
+yt:ID1201 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "La Granja de Zenón"^^xsd:string ;
+    yt:commentsavg "4.085427136"^^xsd:float ;
+    yt:followers 31200000 ;
+    yt:hasCountry countries:ar ;
+    yt:likes "8862147.776"^^xsd:float ;
+    yt:username "La Granja de Zenón"^^xsd:string ;
+    yt:views "22499719782.0"^^xsd:float ;
+    yt:viewsavg "4673667.25"^^xsd:float .
+
+yt:ID1203 a yt:YouTube ;
+    yt:category "Hobby"^^xsd:string ;
+    yt:channelname "Las Ratitas"^^xsd:string ;
+    yt:commentsavg "0.0"^^xsd:float ;
+    yt:followers 24500000 ;
+    yt:hasCountry countries:es ;
+    yt:likes "25734650.14"^^xsd:float ;
+    yt:username "Las Ratitas"^^xsd:string ;
+    yt:views "9186925718.0"^^xsd:float ;
+    yt:viewsavg "21945871.5"^^xsd:float .
+
+yt:ID1205 a yt:YouTube ;
+    yt:category "Hobby"^^xsd:string ;
+    yt:channelname "Like Nastya"^^xsd:string ;
+    yt:commentsavg "0.292490119"^^xsd:float ;
+    yt:followers 97300000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "280877652.4"^^xsd:float ;
+    yt:username "Like Nastya"^^xsd:string ;
+    yt:views "80111555805.0"^^xsd:float ;
+    yt:viewsavg "138163704.5"^^xsd:float .
+
+yt:ID1214 a yt:YouTube ;
+    yt:category "Technology"^^xsd:string ;
+    yt:channelname "Lucas and Marcus"^^xsd:string ;
+    yt:commentsavg "5423.438333"^^xsd:float ;
+    yt:followers 24900000 ;
+    yt:hasCountry countries:ie ;
+    yt:likes "113049177.7"^^xsd:float ;
+    yt:username "Lucas and Marcus"^^xsd:string ;
+    yt:views "7246179800.0"^^xsd:float ;
+    yt:viewsavg "4032755.0"^^xsd:float .
+
+yt:ID1216 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "Luccas Neto"^^xsd:string ;
+    yt:commentsavg "364.9545126"^^xsd:float ;
+    yt:followers 37500000 ;
+    yt:hasCountry countries:br ;
+    yt:likes "156622828.8"^^xsd:float ;
+    yt:username "Luccas Neto"^^xsd:string ;
+    yt:views "20208165033.0"^^xsd:float ;
+    yt:viewsavg "6212180.363"^^xsd:float .
+
+yt:ID1226 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "Luisito Comunica"^^xsd:string ;
+    yt:commentsavg "17264.92415"^^xsd:float ;
+    yt:followers 39000000 ;
+    yt:hasCountry countries:mx ;
+    yt:likes "247337977.2"^^xsd:float ;
+    yt:username "Luisito Comunica"^^xsd:string ;
+    yt:views "7572635123.0"^^xsd:float ;
+    yt:viewsavg "6223747.0"^^xsd:float .
+
+yt:ID1234 a yt:YouTube ;
+    yt:category "Hip hop music"^^xsd:string ;
+    yt:channelname "Maluma"^^xsd:string ;
+    yt:commentsavg "5869.851852"^^xsd:float ;
+    yt:followers 28600000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "3656173.333"^^xsd:float ;
+    yt:username "Maluma"^^xsd:string ;
+    yt:views "19474056278.0"^^xsd:float ;
+    yt:viewsavg "10280274.5"^^xsd:float .
+
+yt:ID1236 a yt:YouTube ;
+    yt:category "Hobby"^^xsd:string ;
+    yt:channelname "Maria Clara & JP"^^xsd:string ;
+    yt:commentsavg "6.637037037"^^xsd:float ;
+    yt:followers 32700000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "123083709.2"^^xsd:float ;
+    yt:username "Maria Clara & JP"^^xsd:string ;
+    yt:views "19887856663.0"^^xsd:float ;
+    yt:viewsavg "32027381.17"^^xsd:float .
+
+yt:ID1238 a yt:YouTube ;
+    yt:category "Music of Latin America"^^xsd:string ;
+    yt:channelname "Marília Mendonça"^^xsd:string ;
+    yt:commentsavg "13404.03846"^^xsd:float ;
+    yt:followers 24600000 ;
+    yt:hasCountry countries:br ;
+    yt:likes "90087647.69"^^xsd:float ;
+    yt:username "Marília Mendonça"^^xsd:string ;
+    yt:views "16185158471.0"^^xsd:float ;
+    yt:viewsavg "205450048.0"^^xsd:float .
+
+yt:ID1240 a yt:YouTube ;
+    yt:category "Gaming"^^xsd:string ;
+    yt:channelname "Markiplier"^^xsd:string ;
+    yt:commentsavg "12199.21903"^^xsd:float ;
+    yt:followers 33100000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "859070584.0"^^xsd:float ;
+    yt:username "Markiplier"^^xsd:string ;
+    yt:views "18502660860.0"^^xsd:float ;
+    yt:viewsavg "3858356.5"^^xsd:float .
+
+yt:ID1244 a yt:YouTube ;
+    yt:category "Electronic music"^^xsd:string ;
+    yt:channelname "Marshmello"^^xsd:string ;
+    yt:commentsavg "5497.365672"^^xsd:float ;
+    yt:followers 55500000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "51156331.51"^^xsd:float ;
+    yt:username "Marshmello"^^xsd:string ;
+    yt:views "13279526225.0"^^xsd:float ;
+    yt:viewsavg "2716910.5"^^xsd:float .
+
+yt:ID1252 a yt:YouTube ;
+    yt:category "TV shows"^^xsd:string ;
+    yt:channelname "Masha and The Bear"^^xsd:string ;
+    yt:commentsavg "5.335494327"^^xsd:float ;
+    yt:followers 34400000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "19163112.51"^^xsd:float ;
+    yt:username "Masha and The Bear"^^xsd:string ;
+    yt:views "18886570104.0"^^xsd:float ;
+    yt:viewsavg "5243045.167"^^xsd:float .
+
+yt:ID1254 a yt:YouTube ;
+    yt:category "Pop music"^^xsd:string ;
+    yt:channelname "Michael Jackson"^^xsd:string ;
+    yt:commentsavg "27294.14286"^^xsd:float ;
+    yt:followers 25500000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "2235904.0"^^xsd:float ;
+    yt:username "Michael Jackson"^^xsd:string ;
+    yt:views "12397130801.0"^^xsd:float ;
+    yt:viewsavg "10587707.25"^^xsd:float .
+
+yt:ID1256 a yt:YouTube ;
+    yt:category "Action-adventure game"^^xsd:string ;
+    yt:channelname "Mikecrack"^^xsd:string ;
+    yt:commentsavg "19245.68738"^^xsd:float ;
+    yt:followers 32200000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "519363095.8"^^xsd:float ;
+    yt:username "Mikecrack"^^xsd:string ;
+    yt:views "13382965827.0"^^xsd:float ;
+    yt:viewsavg "10452367.63"^^xsd:float .
+
+yt:ID1257 a yt:YouTube ;
+    yt:category "Movies"^^xsd:string ;
+    yt:channelname "Movieclips"^^xsd:string ;
+    yt:commentsavg "65.46459463"^^xsd:float ;
+    yt:followers 57300000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "39953044.15"^^xsd:float ;
+    yt:username "Movieclips"^^xsd:string ;
+    yt:views "58434633172.0"^^xsd:float ;
+    yt:viewsavg "81556.07136"^^xsd:float .
+
+yt:ID1265 a yt:YouTube ;
+    yt:category "TV shows"^^xsd:string ;
+    yt:channelname "Mr. Bean"^^xsd:string ;
+    yt:commentsavg "223.4449959"^^xsd:float ;
+    yt:followers 30500000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "20494341.2"^^xsd:float ;
+    yt:username "Mr. Bean"^^xsd:string ;
+    yt:views "9854766293.0"^^xsd:float ;
+    yt:viewsavg "792897.3"^^xsd:float .
+
+yt:ID1267 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "MrBeast"^^xsd:string ;
+    yt:commentsavg "113432.3737"^^xsd:float ;
+    yt:followers 98100000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "1731833461.0"^^xsd:float ;
+    yt:username "MrBeast"^^xsd:string ;
+    yt:views "16242634269.0"^^xsd:float ;
+    yt:viewsavg "98762497.25"^^xsd:float .
+
+yt:ID1276 a yt:YouTube ;
+    yt:category "Strategy video game"^^xsd:string ;
+    yt:channelname "MrBeast Gaming"^^xsd:string ;
+    yt:commentsavg "54156.77519"^^xsd:float ;
+    yt:followers 27800000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "95375135.95"^^xsd:float ;
+    yt:username "MrBeast Gaming"^^xsd:string ;
+    yt:views "4744307587.0"^^xsd:float ;
+    yt:viewsavg "35412960.5"^^xsd:float .
+
+yt:ID1278 a yt:YouTube ;
+    yt:category "TV shows"^^xsd:string ;
+    yt:channelname "Netflix"^^xsd:string ;
+    yt:commentsavg "1311.491067"^^xsd:float ;
+    yt:followers 24000000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "106820094.9"^^xsd:float ;
+    yt:username "Netflix"^^xsd:string ;
+    yt:views "5551273418.0"^^xsd:float ;
+    yt:viewsavg "691757.5132"^^xsd:float .
+
+yt:ID1280 a yt:YouTube ;
+    yt:category "Movies"^^xsd:string ;
+    yt:channelname "Nick Jr."^^xsd:string ;
+    yt:commentsavg "16.70368962"^^xsd:float ;
+    yt:followers 24900000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "9113271.348"^^xsd:float ;
+    yt:username "Nick Jr."^^xsd:string ;
+    yt:views "20429943688.0"^^xsd:float ;
+    yt:viewsavg "541040.1567"^^xsd:float .
+
+yt:ID1284 a yt:YouTube ;
+    yt:category "Electronic music"^^xsd:string ;
+    yt:channelname "NoCopyrightSounds"^^xsd:string ;
+    yt:commentsavg "2100.648789"^^xsd:float ;
+    yt:followers 32500000 ;
+    yt:hasCountry countries:gb ;
+    yt:likes "49790905.32"^^xsd:float ;
+    yt:username "NoCopyrightSounds"^^xsd:string ;
+    yt:views "10341586393.0"^^xsd:float ;
+    yt:viewsavg "1785483.0"^^xsd:float .
+
+yt:ID1294 a yt:YouTube ;
+    yt:category "Movies"^^xsd:string ;
+    yt:channelname "one31"^^xsd:string ;
+    yt:commentsavg "47.34433651"^^xsd:float ;
+    yt:followers 34100000 ;
+    yt:hasCountry countries:th ;
+    yt:likes "79115974.38"^^xsd:float ;
+    yt:username "one31"^^xsd:string ;
+    yt:views "26512197849.0"^^xsd:float ;
+    yt:viewsavg "71972.60636"^^xsd:float .
+
+yt:ID1296 a yt:YouTube ;
+    yt:category "Hip hop music"^^xsd:string ;
+    yt:channelname "Ozuna"^^xsd:string ;
+    yt:commentsavg "12041.54762"^^xsd:float ;
+    yt:followers 35100000 ;
+    yt:hasCountry countries:pr ;
+    yt:likes "54789654.87"^^xsd:float ;
+    yt:username "Ozuna"^^xsd:string ;
+    yt:views "20871652286.0"^^xsd:float ;
+    yt:viewsavg "57492026.25"^^xsd:float .
+
+yt:ID1298 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "Peppa Pig - Official Channel"^^xsd:string ;
+    yt:commentsavg "1.43960396"^^xsd:float ;
+    yt:followers 27800000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "36324747.81"^^xsd:float ;
+    yt:username "Peppa Pig - Official Channel"^^xsd:string ;
+    yt:views "20700474741.0"^^xsd:float ;
+    yt:viewsavg "6448373.825"^^xsd:float .
+
+yt:ID1300 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "PewDiePie"^^xsd:string ;
+    yt:commentsavg "35839.78135"^^xsd:float ;
+    yt:followers 111000000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "2191405542.0"^^xsd:float ;
+    yt:username "PewDiePie"^^xsd:string ;
+    yt:views "28424113942.0"^^xsd:float ;
+    yt:viewsavg "7718344.847"^^xsd:float .
+
+yt:ID1309 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Post Malone"^^xsd:string ;
+    yt:commentsavg "11098.63793"^^xsd:float ;
+    yt:followers 24000000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "16471431.95"^^xsd:float ;
+    yt:username "Post Malone"^^xsd:string ;
+    yt:views "12252459767.0"^^xsd:float ;
+    yt:viewsavg "14483462.0"^^xsd:float .
+
+yt:ID1311 a yt:YouTube ;
+    yt:category "Movies"^^xsd:string ;
+    yt:channelname "PowerKids"^^xsd:string ;
+    yt:commentsavg "28.14774624"^^xsd:float ;
+    yt:followers 27400000 ;
+    yt:hasCountry countries:ie ;
+    yt:likes "9110728.831"^^xsd:float ;
+    yt:username "PowerKids"^^xsd:string ;
+    yt:views "13796737897.0"^^xsd:float ;
+    yt:viewsavg "1037818.6"^^xsd:float .
+
+yt:ID1313 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "Renato Garcia"^^xsd:string ;
+    yt:commentsavg "7229.66911"^^xsd:float ;
+    yt:followers 25300000 ;
+    yt:hasCountry countries:br ;
+    yt:likes "625651148.3"^^xsd:float ;
+    yt:username "Renato Garcia"^^xsd:string ;
+    yt:views "6792113850.0"^^xsd:float ;
+    yt:viewsavg "1630536.188"^^xsd:float .
+
+yt:ID1315 a yt:YouTube ;
+    yt:category "Technology"^^xsd:string ;
+    yt:channelname "rezendeevil"^^xsd:string ;
+    yt:commentsavg "1917.941289"^^xsd:float ;
+    yt:followers 29600000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "924433049.7"^^xsd:float ;
+    yt:username "rezendeevil"^^xsd:string ;
+    yt:views "12562836296.0"^^xsd:float ;
+    yt:viewsavg "906547.1639"^^xsd:float .
+
+yt:ID1317 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "Ricis Official"^^xsd:string ;
+    yt:commentsavg "9346.104029"^^xsd:float ;
+    yt:followers 30200000 ;
+    yt:hasCountry countries:id ;
+    yt:likes "204185093.0"^^xsd:float ;
+    yt:username "Ricis Official"^^xsd:string ;
+    yt:views "5032113188.0"^^xsd:float ;
+    yt:viewsavg "2081384.797"^^xsd:float .
+
+yt:ID1327 a yt:YouTube ;
+    yt:category "Rhythm and blues"^^xsd:string ;
+    yt:channelname "RihannaVEVO"^^xsd:string ;
+    yt:commentsavg "42393.1"^^xsd:float ;
+    yt:followers 25200000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "102787670.0"^^xsd:float ;
+    yt:username "RihannaVEVO"^^xsd:string ;
+    yt:views "17967902245.0"^^xsd:float ;
+    yt:viewsavg "88722202.0"^^xsd:float .
+
+yt:ID1329 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "Round2hell"^^xsd:string ;
+    yt:commentsavg "67627.32653"^^xsd:float ;
+    yt:followers 26800000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "129404344.2"^^xsd:float ;
+    yt:username "Round2hell"^^xsd:string ;
+    yt:views "2860744608.0"^^xsd:float ;
+    yt:viewsavg "67512106.75"^^xsd:float .
+
+yt:ID1331 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "Ryan's World"^^xsd:string ;
+    yt:commentsavg "10.13482056"^^xsd:float ;
+    yt:followers 32700000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "41421384.3"^^xsd:float ;
+    yt:username "Ryan's World"^^xsd:string ;
+    yt:views "51413962658.0"^^xsd:float ;
+    yt:viewsavg "6235625.804"^^xsd:float .
+
+yt:ID1333 a yt:YouTube ;
+    yt:category "Music of Asia"^^xsd:string ;
+    yt:channelname "Saregama Music"^^xsd:string ;
+    yt:commentsavg "545.8334483"^^xsd:float ;
+    yt:followers 29200000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "41491719.48"^^xsd:float ;
+    yt:username "Saregama Music"^^xsd:string ;
+    yt:views "11819860122.0"^^xsd:float ;
+    yt:viewsavg "48706.46667"^^xsd:float .
+
+yt:ID1337 a yt:YouTube ;
+    yt:category "Movies"^^xsd:string ;
+    yt:channelname "SET India"^^xsd:string ;
+    yt:commentsavg "76.24431635"^^xsd:float ;
+    yt:followers 137000000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "174875242.6"^^xsd:float ;
+    yt:username "SET India"^^xsd:string ;
+    yt:views "122000000000.0"^^xsd:float ;
+    yt:viewsavg "109572.8784"^^xsd:float .
+
+yt:ID1356 a yt:YouTube ;
+    yt:category "Food"^^xsd:string ;
+    yt:channelname "shfa"^^xsd:string ;
+    yt:commentsavg "2.77962963"^^xsd:float ;
+    yt:followers 35600000 ;
+    yt:hasCountry countries:ae ;
+    yt:likes "100292545.2"^^xsd:float ;
+    yt:username "shfa"^^xsd:string ;
+    yt:views "18836836311.0"^^xsd:float ;
+    yt:viewsavg "20460783.2"^^xsd:float .
+
+yt:ID1360 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "SMTOWN"^^xsd:string ;
+    yt:commentsavg "31226.80666"^^xsd:float ;
+    yt:followers 30600000 ;
+    yt:hasCountry countries:gb ;
+    yt:likes "855552544.8"^^xsd:float ;
+    yt:username "SMTOWN"^^xsd:string ;
+    yt:views "24867458876.0"^^xsd:float ;
+    yt:viewsavg "1241215.517"^^xsd:float .
+
+yt:ID1362 a yt:YouTube ;
+    yt:category "Music of Asia"^^xsd:string ;
+    yt:channelname "Speed Records"^^xsd:string ;
+    yt:commentsavg "1219.038023"^^xsd:float ;
+    yt:followers 40500000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "155670991.2"^^xsd:float ;
+    yt:username "Speed Records"^^xsd:string ;
+    yt:views "24158005861.0"^^xsd:float ;
+    yt:viewsavg "155542.6113"^^xsd:float .
+
+yt:ID1370 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Spinnin' Records"^^xsd:string ;
+    yt:commentsavg "189.0704501"^^xsd:float ;
+    yt:followers 29600000 ;
+    yt:hasCountry countries:nl ;
+    yt:likes "78661903.41"^^xsd:float ;
+    yt:username "Spinnin' Records"^^xsd:string ;
+    yt:views "19930956697.0"^^xsd:float ;
+    yt:viewsavg "233858.0"^^xsd:float .
+
+yt:ID1372 a yt:YouTube ;
+    yt:category "Technology"^^xsd:string ;
+    yt:channelname "SSSniperWolf"^^xsd:string ;
+    yt:commentsavg "12620.26786"^^xsd:float ;
+    yt:followers 32100000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "457491408.9"^^xsd:float ;
+    yt:username "SSSniperWolf"^^xsd:string ;
+    yt:views "19920579023.0"^^xsd:float ;
+    yt:viewsavg "7140997.944"^^xsd:float .
+
+yt:ID1374 a yt:YouTube ;
+    yt:category "Movies"^^xsd:string ;
+    yt:channelname "Talking Tom"^^xsd:string ;
+    yt:commentsavg "148.045045"^^xsd:float ;
+    yt:followers 27800000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "28574803.58"^^xsd:float ;
+    yt:username "Talking Tom"^^xsd:string ;
+    yt:views "13777477487.0"^^xsd:float ;
+    yt:viewsavg "13019389.0"^^xsd:float .
+
+yt:ID1384 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "TaylorSwiftVEVO"^^xsd:string ;
+    yt:commentsavg "20032.13861"^^xsd:float ;
+    yt:followers 25900000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "91978482.69"^^xsd:float ;
+    yt:username "TaylorSwiftVEVO"^^xsd:string ;
+    yt:views "23100088153.0"^^xsd:float ;
+    yt:viewsavg "9994058.0"^^xsd:float .
+
+yt:ID1386 a yt:YouTube ;
+    yt:category "Action game"^^xsd:string ;
+    yt:channelname "Techno Gamerz"^^xsd:string ;
+    yt:commentsavg "32943.27097"^^xsd:float ;
+    yt:followers 27500000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "350302694.1"^^xsd:float ;
+    yt:username "Techno Gamerz"^^xsd:string ;
+    yt:views "6945063533.0"^^xsd:float ;
+    yt:viewsavg "10295601.67"^^xsd:float .
+
+yt:ID1388 a yt:YouTube ;
+    yt:category "Knowledge"^^xsd:string ;
+    yt:channelname "TEDx Talks"^^xsd:string ;
+    yt:commentsavg "6.696834708"^^xsd:float ;
+    yt:followers 35400000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "14380162.58"^^xsd:float ;
+    yt:username "TEDx Talks"^^xsd:string ;
+    yt:views "6555696786.0"^^xsd:float ;
+    yt:viewsavg "680.6064558"^^xsd:float .
+
+yt:ID1390 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "The Late Late Show with James Corden"^^xsd:string ;
+    yt:commentsavg "1051.824727"^^xsd:float ;
+    yt:followers 27800000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "120693574.3"^^xsd:float ;
+    yt:username "The Late Late Show with James Corden"^^xsd:string ;
+    yt:views "9944185112.0"^^xsd:float ;
+    yt:viewsavg "298809.9889"^^xsd:float .
+
+yt:ID1394 a yt:YouTube ;
+    yt:category "Action game"^^xsd:string ;
+    yt:channelname "TheDonato"^^xsd:string ;
+    yt:commentsavg "7351.350442"^^xsd:float ;
+    yt:followers 27000000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "494765339.7"^^xsd:float ;
+    yt:username "TheDonato"^^xsd:string ;
+    yt:views "4997475333.0"^^xsd:float ;
+    yt:viewsavg "2735315.35"^^xsd:float .
+
+yt:ID1404 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Tips Official"^^xsd:string ;
+    yt:commentsavg "655.464497"^^xsd:float ;
+    yt:followers 52000000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "35849829.85"^^xsd:float ;
+    yt:username "Tips Official"^^xsd:string ;
+    yt:views "27298793597.0"^^xsd:float ;
+    yt:viewsavg "711603.375"^^xsd:float .
+
+yt:ID1412 a yt:YouTube ;
+    yt:category "Gaming"^^xsd:string ;
+    yt:channelname "Total Gaming"^^xsd:string ;
+    yt:commentsavg "6038.726691"^^xsd:float ;
+    yt:followers 32900000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "349783527.8"^^xsd:float ;
+    yt:username "Total Gaming"^^xsd:string ;
+    yt:views "5868383776.0"^^xsd:float ;
+    yt:viewsavg "2548951.282"^^xsd:float .
+
+yt:ID1414 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "toycantando"^^xsd:string ;
+    yt:commentsavg "23.58333333"^^xsd:float ;
+    yt:followers 25600000 ;
+    yt:hasCountry countries:co ;
+    yt:likes "8380779.475"^^xsd:float ;
+    yt:username "toycantando"^^xsd:string ;
+    yt:views "13782126464.0"^^xsd:float ;
+    yt:viewsavg "4544787.0"^^xsd:float .
+
+yt:ID1416 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "Toys and Colors"^^xsd:string ;
+    yt:commentsavg "0.0"^^xsd:float ;
+    yt:followers 36300000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "50988592.12"^^xsd:float ;
+    yt:username "Toys and Colors"^^xsd:string ;
+    yt:views "40261342099.0"^^xsd:float ;
+    yt:viewsavg "27828993.05"^^xsd:float .
+
+yt:ID1424 a yt:YouTube ;
+    yt:category "Hip hop music"^^xsd:string ;
+    yt:channelname "Trap Nation"^^xsd:string ;
+    yt:commentsavg "433.1217391"^^xsd:float ;
+    yt:followers 30400000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "29263861.96"^^xsd:float ;
+    yt:username "Trap Nation"^^xsd:string ;
+    yt:views "13296705190.0"^^xsd:float ;
+    yt:viewsavg "491095.75"^^xsd:float .
+
+yt:ID1426 a yt:YouTube ;
+    yt:category "Movies"^^xsd:string ;
+    yt:channelname "Ultra Bollywood"^^xsd:string ;
+    yt:commentsavg "60.51167964"^^xsd:float ;
+    yt:followers 32700000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "20774265.97"^^xsd:float ;
+    yt:username "Ultra Bollywood"^^xsd:string ;
+    yt:views "15170479664.0"^^xsd:float ;
+    yt:viewsavg "213737.6748"^^xsd:float .
+
+yt:ID1428 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Ultra Music"^^xsd:string ;
+    yt:commentsavg "253.9658824"^^xsd:float ;
+    yt:followers 28400000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "28006627.75"^^xsd:float ;
+    yt:username "Ultra Music"^^xsd:string ;
+    yt:views "16099481879.0"^^xsd:float ;
+    yt:viewsavg "83082.5"^^xsd:float .
+
+yt:ID1430 a yt:YouTube ;
+    yt:category "Gaming"^^xsd:string ;
+    yt:channelname "Vanoss Gaming"^^xsd:string ;
+    yt:commentsavg "1145.008734"^^xsd:float ;
+    yt:followers 25700000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "124485316.5"^^xsd:float ;
+    yt:username "VanossGaming"^^xsd:string ;
+    yt:views "14814514676.0"^^xsd:float ;
+    yt:viewsavg "2925753.938"^^xsd:float .
+
+yt:ID1432 a yt:YouTube ;
+    yt:category "Hobby"^^xsd:string,
+        "Lifestyle"^^xsd:string ;
+    yt:channelname "Vlad and Niki"^^xsd:string,
+        "Vlad và Nikita"^^xsd:string ;
+    yt:commentsavg "0.0"^^xsd:float ;
+    yt:followers 25300000,
+        83500000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "38015965.41"^^xsd:float,
+        "146245435.4"^^xsd:float ;
+    yt:username "Vlad and Niki"^^xsd:string,
+        "Vlad và Nikita"^^xsd:string ;
+    yt:views "16055918867.0"^^xsd:float,
+        "65143080313.0"^^xsd:float ;
+    yt:viewsavg "33811028.5"^^xsd:float,
+        "108949716.5"^^xsd:float .
+
+yt:ID1442 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "Você Sabia?"^^xsd:string ;
+    yt:commentsavg "13671.02937"^^xsd:float ;
+    yt:followers 43100000 ;
+    yt:hasCountry countries:br ;
+    yt:likes "449621753.4"^^xsd:float ;
+    yt:username "Você Sabia?"^^xsd:string ;
+    yt:views "7206933910.0"^^xsd:float ;
+    yt:viewsavg "3441983.4"^^xsd:float .
+
+yt:ID1450 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "Voot Kids"^^xsd:string ;
+    yt:commentsavg "18.61297297"^^xsd:float ;
+    yt:followers 38100000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "46360335.99"^^xsd:float ;
+    yt:username "Voot Kids"^^xsd:string ;
+    yt:views "17243982736.0"^^xsd:float ;
+    yt:viewsavg "4136043.333"^^xsd:float .
+
+yt:ID1458 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "WatchMojo.com"^^xsd:string ;
+    yt:commentsavg "671.3412804"^^xsd:float ;
+    yt:followers 24500000 ;
+    yt:hasCountry countries:ca ;
+    yt:likes "89134391.84"^^xsd:float ;
+    yt:username "WatchMojo.com"^^xsd:string ;
+    yt:views "15567059078.0"^^xsd:float ;
+    yt:viewsavg "196718.9654"^^xsd:float .
+
+yt:ID1460 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Wave Music"^^xsd:string ;
+    yt:commentsavg "624.737432"^^xsd:float ;
+    yt:followers 52800000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "135816576.6"^^xsd:float ;
+    yt:username "Wave Music"^^xsd:string ;
+    yt:views "36796548363.0"^^xsd:float ;
+    yt:viewsavg "381289.2333"^^xsd:float .
+
+yt:ID1468 a yt:YouTube ;
+    yt:category "Hip hop music"^^xsd:string ;
+    yt:channelname "Wiz Khalifa"^^xsd:string ;
+    yt:commentsavg "1915.940476"^^xsd:float ;
+    yt:followers 26300000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "31480236.73"^^xsd:float ;
+    yt:username "Wiz Khalifa"^^xsd:string ;
+    yt:views "12431651158.0"^^xsd:float ;
+    yt:viewsavg "2354512.25"^^xsd:float .
+
+yt:ID1470 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "WorkpointOfficial"^^xsd:string ;
+    yt:commentsavg "79.8426244"^^xsd:float ;
+    yt:followers 36800000 ;
+    yt:hasCountry countries:th ;
+    yt:likes "80346776.67"^^xsd:float ;
+    yt:username "WorkpointOfficial"^^xsd:string ;
+    yt:views "33437272309.0"^^xsd:float ;
+    yt:viewsavg "91303.1662"^^xsd:float .
+
+yt:ID1478 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "WORLDSTARHIPHOP"^^xsd:string ;
+    yt:commentsavg "1250.10486"^^xsd:float ;
+    yt:followers 25900000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "76997320.64"^^xsd:float ;
+    yt:username "WORLDSTARHIPHOP"^^xsd:string ;
+    yt:views "19330656067.0"^^xsd:float ;
+    yt:viewsavg "419659.851"^^xsd:float .
+
+yt:ID1480 a yt:YouTube ;
+    yt:category "Music of Asia"^^xsd:string ;
+    yt:channelname "Worldwide Records Bhojpuri"^^xsd:string ;
+    yt:commentsavg "501.0535667"^^xsd:float ;
+    yt:followers 28100000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "40014250.2"^^xsd:float ;
+    yt:username "Worldwide Records Bhojpuri"^^xsd:string ;
+    yt:views "14212409251.0"^^xsd:float ;
+    yt:viewsavg "117362.6429"^^xsd:float .
+
+yt:ID1481 a yt:YouTube ;
+    yt:category "Music of Asia"^^xsd:string ;
+    yt:channelname "Worldwide Records Bhojpuri"^^xsd:string ;
+    yt:commentsavg "501.0535667"^^xsd:float ;
+    yt:followers 28100000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "40014250.2"^^xsd:float ;
+    yt:username "Worldwide Records Bhojpuri"^^xsd:string ;
+    yt:views "14212409251.0"^^xsd:float ;
+    yt:viewsavg "117362.6429"^^xsd:float .
+
+yt:ID1482 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "Wow Kidz"^^xsd:string ;
+    yt:commentsavg "9.313413015"^^xsd:float ;
+    yt:followers 27600000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "13298666.41"^^xsd:float ;
+    yt:username "Wow Kidz"^^xsd:string ;
+    yt:views "14736833480.0"^^xsd:float ;
+    yt:viewsavg "588863.7556"^^xsd:float .
+
+yt:ID1492 a yt:YouTube ;
+    yt:category "Electronic music"^^xsd:string ;
+    yt:channelname "xoxxxoooxo"^^xsd:string ;
+    yt:commentsavg "6009.72"^^xsd:float ;
+    yt:followers 28600000 ;
+    yt:hasCountry countries:ca ;
+    yt:likes "18425347.55"^^xsd:float ;
+    yt:username "xoxxxoooxo"^^xsd:string ;
+    yt:views "18863047171.0"^^xsd:float ;
+    yt:viewsavg "8189141.75"^^xsd:float .
+
+yt:ID1494 a yt:YouTube ;
+    yt:category "Hip hop music"^^xsd:string ;
+    yt:channelname "xxxtentacion"^^xsd:string ;
+    yt:commentsavg "18591.93976"^^xsd:float ;
+    yt:followers 37400000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "33550305.4"^^xsd:float ;
+    yt:username "xxxtentacion"^^xsd:string ;
+    yt:views "9632080442.0"^^xsd:float ;
+    yt:viewsavg "6642087.75"^^xsd:float .
+
+yt:ID1502 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "YouTube Spotlight"^^xsd:string ;
+    yt:commentsavg "4190.598662"^^xsd:float ;
+    yt:followers 33200000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "11016951.85"^^xsd:float ;
+    yt:username "YouTube Spotlight"^^xsd:string ;
+    yt:views "2696443232.0"^^xsd:float ;
+    yt:viewsavg "1004240.0"^^xsd:float .
+
+yt:ID1504 a yt:YouTube ;
+    yt:category "Music of Asia"^^xsd:string ;
+    yt:channelname "YRF"^^xsd:string ;
+    yt:commentsavg "3818.832589"^^xsd:float ;
+    yt:followers 46900000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "230841570.4"^^xsd:float ;
+    yt:username "YRF"^^xsd:string ;
+    yt:views "28692968075.0"^^xsd:float ;
+    yt:viewsavg "1160703.0"^^xsd:float .
+
+yt:ID1512 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "Yuya"^^xsd:string ;
+    yt:commentsavg "2948.101563"^^xsd:float ;
+    yt:followers 24900000 ;
+    yt:hasCountry countries:so ;
+    yt:likes "58671863.25"^^xsd:float ;
+    yt:username "Yuya"^^xsd:string ;
+    yt:views "2582756055.0"^^xsd:float ;
+    yt:viewsavg "1613594.0"^^xsd:float .
+
+yt:ID1522 a yt:YouTube ;
+    yt:category "Pop music"^^xsd:string ;
+    yt:channelname "Ariana Grande"^^xsd:string ;
+    yt:commentsavg "12890.23188"^^xsd:float ;
+    yt:followers 51500000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "44484407.8"^^xsd:float ;
+    yt:username "Ariana Grande"^^xsd:string ;
+    yt:views "21945548174.0"^^xsd:float ;
+    yt:viewsavg "6972101.0"^^xsd:float .
+
+yt:ID1523 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Beyoncé"^^xsd:string ;
+    yt:commentsavg "4053.68"^^xsd:float ;
+    yt:followers 24700000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "18180958.4"^^xsd:float ;
+    yt:username "Beyoncé Knowles"^^xsd:string ;
+    yt:views "15529923941.0"^^xsd:float ;
+    yt:viewsavg "1249949.0"^^xsd:float .
+
+yt:ID1524 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Billie Eilish"^^xsd:string ;
+    yt:commentsavg "37181.53571"^^xsd:float ;
+    yt:followers 45900000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "37371320.82"^^xsd:float ;
+    yt:username "Billie Eilish"^^xsd:string ;
+    yt:views "11810491835.0"^^xsd:float ;
+    yt:viewsavg "18540721.25"^^xsd:float .
+
+yt:ID1530 a yt:YouTube ;
+    yt:category "Pop music"^^xsd:string ;
+    yt:channelname "Drake"^^xsd:string ;
+    yt:commentsavg "6409.431373"^^xsd:float ;
+    yt:followers 26600000 ;
+    yt:hasCountry countries:ca ;
+    yt:likes "7434135.412"^^xsd:float ;
+    yt:username "Drake"^^xsd:string ;
+    yt:views "12642399087.0"^^xsd:float ;
+    yt:viewsavg "17163211.5"^^xsd:float .
+
+yt:ID1533 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "TheEllenShow"^^xsd:string ;
+    yt:commentsavg "332.9654702"^^xsd:float ;
+    yt:followers 38300000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "167231088.8"^^xsd:float ;
+    yt:username "TheEllenShow"^^xsd:string ;
+    yt:views "22274035516.0"^^xsd:float ;
+    yt:viewsavg "383303.0936"^^xsd:float .
+
+yt:ID1539 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Justin Bieber"^^xsd:string ;
+    yt:commentsavg "7644.166667"^^xsd:float ;
+    yt:followers 69400000 ;
+    yt:hasCountry countries:ca ;
+    yt:likes "39350061.94"^^xsd:float ;
+    yt:username "Justin Bieber"^^xsd:string ;
+    yt:views "28347084231.0"^^xsd:float ;
+    yt:viewsavg "6148176.5"^^xsd:float .
+
+yt:ID1540 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Katy Perry"^^xsd:string ;
+    yt:commentsavg "2540.344828"^^xsd:float ;
+    yt:followers 43000000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "5322828.259"^^xsd:float ;
+    yt:username "Katy Perry"^^xsd:string ;
+    yt:views "23815643998.0"^^xsd:float ;
+    yt:viewsavg "1049132.0"^^xsd:float .
+
+yt:ID1557 a yt:YouTube ;
+    yt:category "Hip hop music"^^xsd:string ;
+    yt:channelname "Nicki Minaj"^^xsd:string ;
+    yt:commentsavg "7889.709677"^^xsd:float ;
+    yt:followers 24400000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "4117325.0"^^xsd:float ;
+    yt:username "Nicki Minaj"^^xsd:string ;
+    yt:views "9310281416.0"^^xsd:float ;
+    yt:viewsavg "7688954.25"^^xsd:float .
+
+yt:ID1561 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Rihanna"^^xsd:string ;
+    yt:commentsavg "831.1"^^xsd:float ;
+    yt:followers 39400000 ;
+    yt:hasCountry countries:bb ;
+    yt:likes "1205009.12"^^xsd:float ;
+    yt:username "Rihanna"^^xsd:string ;
+    yt:views "19885240007.0"^^xsd:float ;
+    yt:viewsavg "846463.0"^^xsd:float .
+
+yt:ID1562 a yt:YouTube ;
+    yt:category "Pop music"^^xsd:string ;
+    yt:channelname "Selena Gomez"^^xsd:string ;
+    yt:commentsavg "10296.38462"^^xsd:float ;
+    yt:followers 30800000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "57934128.0"^^xsd:float ;
+    yt:username "Selena Gomez"^^xsd:string ;
+    yt:views "11507336712.0"^^xsd:float ;
+    yt:viewsavg "2733389.5"^^xsd:float .
+
+yt:ID1563 a yt:YouTube ;
+    yt:category "Pop music"^^xsd:string ;
+    yt:channelname "Shakira"^^xsd:string ;
+    yt:commentsavg "2526.352941"^^xsd:float ;
+    yt:followers 36700000 ;
+    yt:hasCountry countries:co ;
+    yt:likes "16923109.41"^^xsd:float ;
+    yt:username "Shakira"^^xsd:string ;
+    yt:views "23356797129.0"^^xsd:float ;
+    yt:viewsavg "894883.5"^^xsd:float .
+
+yt:ID1566 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Taylor Swift"^^xsd:string ;
+    yt:commentsavg "5452.68"^^xsd:float ;
+    yt:followers 46800000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "22039543.26"^^xsd:float ;
+    yt:username "Taylor Swift"^^xsd:string ;
+    yt:views "25296371488.0"^^xsd:float ;
+    yt:viewsavg "3935723.0"^^xsd:float .
+
+yt:ID173 a yt:YouTube ;
+    yt:category "Pop music"^^xsd:string ;
+    yt:channelname "Daddy Yankee"^^xsd:string ;
+    yt:commentsavg "17001.93939"^^xsd:float ;
+    yt:followers 36600000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "188506752.5"^^xsd:float ;
+    yt:username "Daddy Yankee"^^xsd:string ;
+    yt:views "20194962867.0"^^xsd:float ;
+    yt:viewsavg "34904111.25"^^xsd:float .
+
+yt:ID181 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "WWE"^^xsd:string ;
+    yt:commentsavg "589.7659726"^^xsd:float ;
+    yt:followers 89400000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "543800874.3"^^xsd:float ;
+    yt:username "WWE"^^xsd:string ;
+    yt:views "69794363750.0"^^xsd:float ;
+    yt:viewsavg "392017.6973"^^xsd:float .
+
+yt:ID236 a yt:YouTube ;
+    yt:category "Hip hop music"^^xsd:string ;
+    yt:channelname "Ed Sheeran"^^xsd:string ;
+    yt:commentsavg "9184.475"^^xsd:float ;
+    yt:followers 52100000 ;
+    yt:hasCountry countries:gb ;
+    yt:likes "97976609.8"^^xsd:float ;
+    yt:username "Ed Sheeran"^^xsd:string ;
+    yt:views "27642363836.0"^^xsd:float ;
+    yt:viewsavg "17368940.5"^^xsd:float .
+
+yt:ID274 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "Felipe Neto"^^xsd:string ;
+    yt:commentsavg "10482.12133"^^xsd:float ;
+    yt:followers 44200000 ;
+    yt:hasCountry countries:br ;
+    yt:likes "763318297.0"^^xsd:float ;
+    yt:username "Felipe Neto"^^xsd:string ;
+    yt:views "15287605140.0"^^xsd:float ;
+    yt:viewsavg "2639779.769"^^xsd:float .
+
+yt:ID340 a yt:YouTube ;
+    yt:category "Pop music"^^xsd:string ;
+    yt:channelname "ImagineDragons"^^xsd:string ;
+    yt:commentsavg "1209.178571"^^xsd:float ;
+    yt:followers 28300000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "2304173.25"^^xsd:float ;
+    yt:username "ImagineDragons"^^xsd:string ;
+    yt:views "14094435442.0"^^xsd:float ;
+    yt:viewsavg "1194245.0"^^xsd:float .
+
+yt:ID352 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "J Balvin"^^xsd:string ;
+    yt:commentsavg "1529.96124"^^xsd:float ;
+    yt:followers 33500000 ;
+    yt:hasCountry countries:co ;
+    yt:likes "3674660.0"^^xsd:float ;
+    yt:username "J Balvin"^^xsd:string ;
+    yt:views "21301599345.0"^^xsd:float ;
+    yt:viewsavg "1208687.5"^^xsd:float .
+
+yt:ID400 a yt:YouTube ;
+    yt:category "TV shows"^^xsd:string ;
+    yt:channelname "The Tonight Show Starring Jimmy Fallon"^^xsd:string ;
+    yt:commentsavg "843.7223352"^^xsd:float ;
+    yt:followers 29700000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "135086098.2"^^xsd:float ;
+    yt:username "The Tonight Show Starring Jimmy Fallon"^^xsd:string ;
+    yt:views "15881598339.0"^^xsd:float ;
+    yt:viewsavg "398666.1178"^^xsd:float .
+
+yt:ID50 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "Smosh"^^xsd:string ;
+    yt:commentsavg "2467.537634"^^xsd:float ;
+    yt:followers 25000000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "63423871.89"^^xsd:float ;
+    yt:username "Smosh"^^xsd:string ;
+    yt:views "10167665364.0"^^xsd:float ;
+    yt:viewsavg "1668707.5"^^xsd:float .
+
+yt:ID527 a yt:YouTube ;
+    yt:category "Music of Latin America"^^xsd:string ;
+    yt:channelname "Luis Fonsi"^^xsd:string ;
+    yt:commentsavg "387.0895522"^^xsd:float ;
+    yt:followers 30800000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "790615.8507"^^xsd:float ;
+    yt:username "Luis Fonsi"^^xsd:string ;
+    yt:views "14382216393.0"^^xsd:float ;
+    yt:viewsavg "243522.25"^^xsd:float .
+
+yt:ID567 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Maroon 5"^^xsd:string ;
+    yt:commentsavg "1030.571429"^^xsd:float ;
+    yt:followers 35700000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "3395907.071"^^xsd:float ;
+    yt:username "Maroon 5"^^xsd:string ;
+    yt:views "20285080239.0"^^xsd:float ;
+    yt:viewsavg "382719.0"^^xsd:float .
+
+yt:ID638 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "One Direction"^^xsd:string ;
+    yt:commentsavg "4474.54"^^xsd:float ;
+    yt:followers 37200000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "18852717.0"^^xsd:float ;
+    yt:username "One Direction"^^xsd:string ;
+    yt:views "12577465005.0"^^xsd:float ;
+    yt:viewsavg "1374397.0"^^xsd:float .
+
+yt:ID778 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Shawn Mendes"^^xsd:string ;
+    yt:commentsavg "4614.517647"^^xsd:float ;
+    yt:followers 29400000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "15433637.08"^^xsd:float ;
+    yt:username "Shawn Mendes"^^xsd:string ;
+    yt:views "11620379993.0"^^xsd:float ;
+    yt:viewsavg "2417156.75"^^xsd:float .
+
+yt:ID921 a yt:YouTube ;
+    yt:category "Gaming"^^xsd:string ;
+    yt:channelname "AboFlah"^^xsd:string ;
+    yt:commentsavg "35452.38983"^^xsd:float ;
+    yt:followers 25900000 ;
+    yt:hasCountry countries:kw ;
+    yt:likes "364937178.3"^^xsd:float ;
+    yt:username "AboFlah"^^xsd:string ;
+    yt:views "3512893392.0"^^xsd:float ;
+    yt:viewsavg "7485437.5"^^xsd:float .
+
+yt:ID923 a yt:YouTube ;
+    yt:category "TV shows"^^xsd:string ;
+    yt:channelname "ABS-CBN Entertainment"^^xsd:string ;
+    yt:commentsavg "103.9998134"^^xsd:float ;
+    yt:followers 39800000 ;
+    yt:hasCountry countries:ph ;
+    yt:likes "240442177.4"^^xsd:float ;
+    yt:username "ABS-CBN Entertainment"^^xsd:string ;
+    yt:views "46854726788.0"^^xsd:float ;
+    yt:viewsavg "140689.8486"^^xsd:float .
+
+yt:ID931 a yt:YouTube ;
+    yt:category "Rhythm and blues"^^xsd:string ;
+    yt:channelname "Adele"^^xsd:string ;
+    yt:commentsavg "4074.0"^^xsd:float ;
+    yt:followers 28600000 ;
+    yt:hasCountry countries:gb ;
+    yt:likes "1187550.0"^^xsd:float ;
+    yt:username "Adele"^^xsd:string ;
+    yt:views "12498528899.0"^^xsd:float ;
+    yt:viewsavg "1149945.0"^^xsd:float .
+
+yt:ID933 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Alan Walker"^^xsd:string ;
+    yt:commentsavg "8457.615385"^^xsd:float ;
+    yt:followers 42000000 ;
+    yt:hasCountry countries:no ;
+    yt:likes "55641776.54"^^xsd:float ;
+    yt:username "Alan Walker"^^xsd:string ;
+    yt:views "11617072443.0"^^xsd:float ;
+    yt:viewsavg "4189688.75"^^xsd:float .
+
+yt:ID941 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "Amit Bhadana"^^xsd:string ;
+    yt:commentsavg "100248.5"^^xsd:float ;
+    yt:followers 24000000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "113983128.8"^^xsd:float ;
+    yt:username "Amit Bhadana"^^xsd:string ;
+    yt:views "2227021034.0"^^xsd:float ;
+    yt:viewsavg "29834436.0"^^xsd:float .
+
+yt:ID951 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "AuronPlay"^^xsd:string ;
+    yt:commentsavg "56091.69231"^^xsd:float ;
+    yt:followers 29100000 ;
+    yt:hasCountry countries:es ;
+    yt:likes "540482543.1"^^xsd:float ;
+    yt:username "AuronPlay"^^xsd:string ;
+    yt:views "3911652534.0"^^xsd:float ;
+    yt:viewsavg "18172780.0"^^xsd:float .
+
+yt:ID953 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Bad Bunny"^^xsd:string ;
+    yt:commentsavg "29218.49495"^^xsd:float ;
+    yt:followers 41600000 ;
+    yt:hasCountry countries:pr ;
+    yt:likes "138038669.5"^^xsd:float ;
+    yt:username "Bad Bunny"^^xsd:string ;
+    yt:views "22382018623.0"^^xsd:float ;
+    yt:viewsavg "127605799.0"^^xsd:float .
+
+yt:ID961 a yt:YouTube ;
+    yt:category "Entertainment"^^xsd:string ;
+    yt:channelname "Badabun"^^xsd:string ;
+    yt:commentsavg "1516.981331"^^xsd:float ;
+    yt:followers 45600000 ;
+    yt:hasCountry countries:mx ;
+    yt:likes "288740569.4"^^xsd:float ;
+    yt:username "Badabun"^^xsd:string ;
+    yt:views "18491954095.0"^^xsd:float ;
+    yt:viewsavg "196296.8346"^^xsd:float .
+
+yt:ID979 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "BLACKPINK"^^xsd:string ;
+    yt:commentsavg "135847.3013"^^xsd:float ;
+    yt:followers 75100000 ;
+    yt:hasCountry countries:kr ;
+    yt:likes "617573972.0"^^xsd:float ;
+    yt:username "BLACKPINK"^^xsd:string ;
+    yt:views "24247825120.0"^^xsd:float ;
+    yt:viewsavg "17409820.0"^^xsd:float .
+
+yt:ID987 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Bollywood Classics"^^xsd:string ;
+    yt:commentsavg "235.993994"^^xsd:float ;
+    yt:followers 30200000 ;
+    yt:hasCountry countries:in ;
+    yt:likes "16021508.49"^^xsd:float ;
+    yt:username "Bollywood Classics"^^xsd:string ;
+    yt:views "18875735928.0"^^xsd:float ;
+    yt:viewsavg "471105.5"^^xsd:float .
+
+yt:ID989 a yt:YouTube ;
+    yt:category "Lifestyle"^^xsd:string ;
+    yt:channelname "BRIGHT SIDE"^^xsd:string ;
+    yt:commentsavg "950.0900288"^^xsd:float ;
+    yt:followers 43700000 ;
+    yt:hasCountry countries:us ;
+    yt:likes "36932146.78"^^xsd:float ;
+    yt:username "BRIGHT SIDE"^^xsd:string ;
+    yt:views "9969944772.0"^^xsd:float ;
+    yt:viewsavg "395681.0212"^^xsd:float .
+
+yt:ID999 a yt:YouTube ;
+    yt:category "Music"^^xsd:string ;
+    yt:channelname "Canal KondZilla"^^xsd:string ;
+    yt:commentsavg "1165.754052"^^xsd:float ;
+    yt:followers 65800000 ;
+    yt:hasCountry countries:br ;
+    yt:likes "116511691.1"^^xsd:float ;
+    yt:username "Canal KondZilla"^^xsd:string ;
+    yt:views "36444038220.0"^^xsd:float ;
+    yt:viewsavg "730263.3214"^^xsd:float .
+

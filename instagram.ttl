@@ -1,0 +1,425 @@
+@prefix countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#> .
+@prefix in: <Instagram#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+in:ID1522 a in:Insta ;
+    in:folllowers 314.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Actress,
+        in:Musician ;
+    in:owner "Ariana Grande"^^xsd:string ;
+    in:rank 8 ;
+    in:username "@arianagrande"^^xsd:string .
+
+in:ID1523 a in:Insta ;
+    in:folllowers 261.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Actress,
+        in:Musician,
+        in:businesswoman ;
+    in:owner "Beyonce Knowles"^^xsd:string ;
+    in:rank 9 ;
+    in:username "@beyonce"^^xsd:string .
+
+in:ID1524 a in:Insta ;
+    in:folllowers 103.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Musician ;
+    in:owner "Billie Eilish"^^xsd:string ;
+    in:rank 34 ;
+    in:username "@billieeilish"^^xsd:string .
+
+in:ID1525 a in:Insta ;
+    in:folllowers 133.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Actor,
+        in:Musician ;
+    in:owner "Cardi B"^^xsd:string ;
+    in:rank 26 ;
+    in:username "@iamcardib"^^xsd:string .
+
+in:ID1526 a in:Insta ;
+    in:folllowers 111.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Musician ;
+    in:owner "Chris Brown"^^xsd:string ;
+    in:rank 32 ;
+    in:username "@chrisbrownofficial"^^xsd:string .
+
+in:ID1527 a in:Insta ;
+    in:folllowers 450.0 ;
+    in:hasCountry countries:pt ;
+    in:hasprofession in:Footballer ;
+    in:owner "Cristiano Ronaldo"^^xsd:string ;
+    in:rank 2 ;
+    in:username "@cristiano"^^xsd:string .
+
+in:ID1528 a in:Insta ;
+    in:folllowers 73.8 ;
+    in:hasCountry countries:gb ;
+    in:hasprofession in:Socialmedia ;
+    in:owner "David Beckham"^^xsd:string ;
+    in:rank 46 ;
+    in:username "@davidbeckham"^^xsd:string .
+
+in:ID1529 a in:Insta ;
+    in:folllowers 133.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Actor,
+        in:Musician ;
+    in:owner "Demi Lovato"^^xsd:string ;
+    in:rank 25 ;
+    in:username "@ddlovato"^^xsd:string .
+
+in:ID1530 a in:Insta ;
+    in:folllowers 112.0 ;
+    in:hasCountry countries:ca ;
+    in:hasprofession in:Musician ;
+    in:owner "Drake"^^xsd:string ;
+    in:rank 31 ;
+    in:username "@champagnepapi"^^xsd:string .
+
+in:ID1531 a in:Insta ;
+    in:folllowers 84.0 ;
+    in:hasCountry countries:gb ;
+    in:hasprofession in:Musician ;
+    in:owner "Dua Lipa"^^xsd:string ;
+    in:rank 36 ;
+    in:username "@dualipa"^^xsd:string .
+
+in:ID1532 a in:Insta ;
+    in:folllowers 320.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Actor,
+        in:Wrestler ;
+    in:owner "Dwayne Johnson"^^xsd:string ;
+    in:rank 6 ;
+    in:username "@therock"^^xsd:string .
+
+in:ID1533 a in:Insta ;
+    in:folllowers 121.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Comedian,
+        in:TVpersonality ;
+    in:owner "Ellen DeGeneres"^^xsd:string ;
+    in:rank 29 ;
+    in:username "@theellenshow"^^xsd:string .
+
+in:ID1534 a in:Insta ;
+    in:folllowers 109.0 ;
+    in:hasCountry countries:es ;
+    in:hasprofession in:Footballclub ;
+    in:owner "FC Barcelona"^^xsd:string ;
+    in:rank 33 ;
+    in:username "@fcbarcelona"^^xsd:string .
+
+in:ID1535 a in:Insta ;
+    in:folllowers 81.7 ;
+    in:hasCountry countries:il ;
+    in:hasprofession in:Actress ;
+    in:owner "Gal Gadot"^^xsd:string ;
+    in:rank 37 ;
+    in:username "@gal_gadot"^^xsd:string .
+
+in:ID1536 a in:Insta ;
+    in:folllowers 74.6 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Model ;
+    in:owner "Gigi Hadid"^^xsd:string ;
+    in:rank 43 ;
+    in:username "@gigihadid"^^xsd:string .
+
+in:ID1537 a in:Insta ;
+    in:folllowers 515.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Socialmedia ;
+    in:owner "Instagram"^^xsd:string ;
+    in:rank 1 ;
+    in:username "@instagram"^^xsd:string .
+
+in:ID1538 a in:Insta ;
+    in:folllowers 211.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Actress,
+        in:Musician ;
+    in:owner "Jennifer Lopez"^^xsd:string ;
+    in:rank 16 ;
+    in:username "@jlo"^^xsd:string .
+
+in:ID1539 a in:Insta ;
+    in:folllowers 239.0 ;
+    in:hasCountry countries:ca ;
+    in:hasprofession in:Musician ;
+    in:owner "Justin Bieber"^^xsd:string ;
+    in:rank 12 ;
+    in:username "@justinbieber"^^xsd:string .
+
+in:ID1540 a in:Insta ;
+    in:folllowers 163.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Musician ;
+    in:owner "Katy Perry"^^xsd:string ;
+    in:rank 22 ;
+    in:username "@katyperry"^^xsd:string .
+
+in:ID1541 a in:Insta ;
+    in:folllowers 240.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Model,
+        in:Tvpersonality ;
+    in:owner "Kendall Jenner"^^xsd:string ;
+    in:rank 11 ;
+    in:username "@kendalljenner"^^xsd:string .
+
+in:ID1542 a in:Insta ;
+    in:folllowers 143.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Actor,
+        in:Comedian ;
+    in:owner "Kevin Hart"^^xsd:string ;
+    in:rank 23 ;
+    in:username "@kevinhart4real"^^xsd:string .
+
+in:ID1543 a in:Insta ;
+    in:folllowers 78.0 ;
+    in:hasCountry countries:it ;
+    in:hasprofession in:Socialmedia ;
+    in:owner "Khaby Lame"^^xsd:string ;
+    in:rank 41 ;
+    in:username "@khaby00"^^xsd:string .
+
+in:ID1544 a in:Insta ;
+    in:folllowers 249.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Model,
+        in:TVpersonality ;
+    in:owner "Khloe Kardashian"^^xsd:string ;
+    in:rank 10 ;
+    in:username "@khloekardashian"^^xsd:string .
+
+in:ID1545 a in:Insta ;
+    in:folllowers 316.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Businesswoman,
+        in:Model,
+        in:TVpersonality ;
+    in:owner "Kim Kardashian"^^xsd:string ;
+    in:rank 7 ;
+    in:username "@kimkardashian"^^xsd:string .
+
+in:ID1546 a in:Insta ;
+    in:folllowers 182.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Model,
+        in:TVpersonality ;
+    in:owner "Kourtney Kardashian"^^xsd:string ;
+    in:rank 19 ;
+    in:username "@kourtneykardash"^^xsd:string .
+
+in:ID1547 a in:Insta ;
+    in:folllowers 71.4 ;
+    in:hasCountry countries:fr ;
+    in:hasprofession in:Footballer ;
+    in:owner "Kylian Mbappe"^^xsd:string ;
+    in:rank 49 ;
+    in:username "@k.mbappe"^^xsd:string .
+
+in:ID1548 a in:Insta ;
+    in:folllowers 344.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Businesswoman,
+        in:Model,
+        in:TVpersonality ;
+    in:owner "Kylie Jenner"^^xsd:string ;
+    in:rank 3 ;
+    in:username "@kyliejenner"^^xsd:string .
+
+in:ID1549 a in:Insta ;
+    in:folllowers 123.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Basketball ;
+    in:owner "LeBron James"^^xsd:string ;
+    in:rank 28 ;
+    in:username "@kingjames"^^xsd:string .
+
+in:ID1550 a in:Insta ;
+    in:folllowers 333.0 ;
+    in:hasCountry countries:ar ;
+    in:hasprofession in:Footballer ;
+    in:owner "Lionel Messi"^^xsd:string ;
+    in:rank 4 ;
+    in:username "@leomessi"^^xsd:string .
+
+in:ID1551 a in:Insta ;
+    in:folllowers 78.3 ;
+    in:hasCountry countries:th ;
+    in:hasprofession in:Model,
+        in:Musician ;
+    in:owner "Lisa"^^xsd:string ;
+    in:rank 40 ;
+    in:username "@lalalalisa_m"^^xsd:string .
+
+in:ID1552 a in:Insta ;
+    in:folllowers 173.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Actress,
+        in:Musician ;
+    in:owner "Miley Cyrus"^^xsd:string ;
+    in:rank 21 ;
+    in:username "@mileycyrus"^^xsd:string .
+
+in:ID1553 a in:Insta ;
+    in:folllowers 77.8 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Spaceagency ;
+    in:owner "NASA"^^xsd:string ;
+    in:rank 42 ;
+    in:username "@nasa"^^xsd:string .
+
+in:ID1554 a in:Insta ;
+    in:folllowers 225.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Magazine ;
+    in:owner "National Geographic"^^xsd:string ;
+    in:rank 13 ;
+    in:username "@natgeo"^^xsd:string .
+
+in:ID1555 a in:Insta ;
+    in:folllowers 70.1 ;
+    in:hasCountry countries:in ;
+    in:hasprofession in:Musician ;
+    in:owner "Neha Kakkar"^^xsd:string ;
+    in:rank 50 ;
+    in:username "@nehakakkar"^^xsd:string .
+
+in:ID1556 a in:Insta ;
+    in:folllowers 175.0 ;
+    in:hasCountry countries:br ;
+    in:hasprofession in:Footballer ;
+    in:owner "Neymar"^^xsd:string ;
+    in:rank 20 ;
+    in:username "@neymarjr"^^xsd:string .
+
+in:ID1557 a in:Insta ;
+    in:folllowers 192.0 ;
+    in:hasprofession in:Musician ;
+    in:owner "Nicki Minaj"^^xsd:string ;
+    in:rank 18 ;
+    in:username "@nickiminaj"^^xsd:string .
+
+in:ID1558 a in:Insta ;
+    in:folllowers 221.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Sportswear ;
+    in:owner "Nike"^^xsd:string ;
+    in:rank 14 ;
+    in:username "@nike"^^xsd:string .
+
+in:ID1559 a in:Insta ;
+    in:folllowers 79.0 ;
+    in:hasCountry countries:in ;
+    in:hasprofession in:Actress,
+        in:Musician ;
+    in:owner "Priyanka Chopra"^^xsd:string ;
+    in:rank 39 ;
+    in:username "@priyankachopra"^^xsd:string .
+
+in:ID1560 a in:Insta ;
+    in:folllowers 119.0 ;
+    in:hasCountry countries:es ;
+    in:hasprofession in:Footballclub ;
+    in:owner "Real Madrid CF"^^xsd:string ;
+    in:rank 30 ;
+    in:username "@realmadrid"^^xsd:string .
+
+in:ID1561 a in:Insta ;
+    in:folllowers 130.0 ;
+    in:hasCountry countries:bb ;
+    in:hasprofession in:Businesswoman,
+        in:Musician ;
+    in:owner "Rihanna"^^xsd:string ;
+    in:rank 27 ;
+    in:username "@badgalriri"^^xsd:string .
+
+in:ID1562 a in:Insta ;
+    in:folllowers 324.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Actress,
+        in:Businesswoman,
+        in:Musician,
+        in:Producer ;
+    in:owner "Selena Gomez"^^xsd:string ;
+    in:rank 5 ;
+    in:username "@selenagomez"^^xsd:string .
+
+in:ID1563 a in:Insta ;
+    in:folllowers 74.1 ;
+    in:hasCountry countries:co ;
+    in:hasprofession in:Musician ;
+    in:owner "Shakira"^^xsd:string ;
+    in:rank 44 ;
+    in:username "@shakira"^^xsd:string .
+
+in:ID1564 a in:Insta ;
+    in:folllowers 72.8 ;
+    in:hasCountry countries:in ;
+    in:hasprofession in:Actress ;
+    in:owner "Shraddha Kapoor"^^xsd:string ;
+    in:rank 48 ;
+    in:username "@shraddhakapoor"^^xsd:string .
+
+in:ID1565 a in:Insta ;
+    in:folllowers 73.9 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Musician ;
+    in:owner "Snoop Dogg"^^xsd:string ;
+    in:rank 45 ;
+    in:username "@snoopdogg"^^xsd:string .
+
+in:ID1566 a in:Insta ;
+    in:folllowers 213.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Musician ;
+    in:owner "Taylor Swift"^^xsd:string ;
+    in:rank 15 ;
+    in:username "@taylorswift"^^xsd:string .
+
+in:ID1567 a in:Insta ;
+    in:folllowers 94.5 ;
+    in:hasprofession in:Footballclub ;
+    in:owner "UEFA Champions League"^^xsd:string ;
+    in:rank 35 ;
+    in:username "@championsleague"^^xsd:string .
+
+in:ID1568 a in:Insta ;
+    in:folllowers 72.8 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Lingerie ;
+    in:owner "Victoria's Secret"^^xsd:string ;
+    in:rank 47 ;
+    in:username "@victoriassecret"^^xsd:string .
+
+in:ID1569 a in:Insta ;
+    in:folllowers 80.7 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Actor ;
+    in:owner "Vin Diesel"^^xsd:string ;
+    in:rank 38 ;
+    in:username "@vindiesel"^^xsd:string .
+
+in:ID1570 a in:Insta ;
+    in:folllowers 199.0 ;
+    in:hasCountry countries:in ;
+    in:hasprofession in:Cricketer ;
+    in:owner "Virat Kohli"^^xsd:string ;
+    in:rank 17 ;
+    in:username "@virat.kohli"^^xsd:string .
+
+in:ID1571 a in:Insta ;
+    in:folllowers 143.0 ;
+    in:hasCountry countries:us ;
+    in:hasprofession in:Actress ;
+    in:owner "Zendaya"^^xsd:string ;
+    in:rank 24 ;
+    in:username "@zendaya"^^xsd:string .
+
